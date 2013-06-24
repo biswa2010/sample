@@ -1,0 +1,152 @@
+    1  vim
+    2  sudo apt-get install vim
+    3  vim a.c
+    4  TIPP10
+    5  ls
+    6  cd Downloads/
+    7  ls
+    8  ls -a
+    9  ls
+   10  sudo dpkg -i tipp10_debian_v2-1-0.deb 
+   11  sudo /usr/bin/tipp10 
+   12  cd /usr/bin/
+   13  ./tipp10 
+   14  cd
+   15  sudo apt-get install ia32-libs libsm6 libsm6:i386 -y
+   16  sudo /usr/bin/tipp10 
+   17  sudo apt-get install libsm6 
+   18  sudo apt-get install ia32-libs libsm6 libsm6:i386 -y
+   19  sudo apt-get install libsm6 libsm6:i386 -y
+   20  sudo /usr/bin/tipp10 
+   21  sudo apt-get install ia32-libs libsm6 libsm6:i386 -y
+   22  sudo apt-get install ia32-lib
+   23  sudo apt-get install ia64-libs libsm6 libsm6:i386 -y
+   24  sudo /usr/bin/tipp10 
+   25  exit
+   26  cd /usr
+   27  ls
+   28  cd -
+   29  cd a
+   30  pwd
+   31  cd /var/
+   32  ls
+   33  cd
+   34  mkdir programs
+   35  cd programs/
+   36  gcc
+   37  vim a.c
+   38  sudo apt-get git
+   39  sudo apt-get install git
+   40  cd ~/.ssh
+   41  ssh-keygen -t rsa -c "biswaranjanadhikary10@gmail.com" 
+   42  ssh-keygen -t rsa -C "biswaranjanadhikary10@gmail.com" 
+   43  gedit /home/a/.ssh/id_rsa.pub
+   44  git clone https://github.com/biswachiku/sample.git
+   45  ls
+   46  cd sample/
+   47  gedit a.c
+   48  git status
+   49  git add a.c
+   50  git status
+   51  git commit -m fstfile
+   52  git push
+   53  git pull
+   54  vim a.c 
+   55  git status
+   56  git add a.c
+   57  git commit -m dlt-fstlinel
+   58  git push
+   59  git branch
+   60  cd.
+   61  rm a.c 
+   62  ls
+   63  git status
+   64  git checkout a.c
+   65  ls
+   66  history
+   67  history > readme
+   68  vim readme 
+   69  git add readme 
+   70  git commit readme 
+   71  git push
+   72  exitt
+   73  exit
+   74  sudo apt-get update
+   75  sudo apt-get upgrade
+   76  exit
+   77  cd programs/sample/
+   78  vim a.c
+   79  vim
+   80  cd programs/sample/
+   81  gedit quiz.c
+   82  gcc quiz.c
+   83  gedit quiz.c
+   84  gcc quiz.c
+   85  gedit quiz.c
+   86  gcc quiz.c
+   87  gedit quiz.c
+   88  gcc quiz.c
+   89  gedit quiz.c
+   90  vim quiz.c
+   91  gcc quiz.c
+   92  vim quiz.c
+   93  gcc quiz.c
+   94  vim quiz.c
+   95  gcc quiz.c
+   96  vim quiz.c
+   97  gcc quiz.c
+   98  vim quiz.c
+   99  gcc quiz.c
+  100  ./a.out
+  101  vim quiz.c
+  102  gcc quiz.c
+  103  vim quiz.c
+  104  gcc quiz.c
+  105  vim quiz.c
+  106  gcc quiz.c
+  107  vim quiz.c
+  108  gcc quiz.c
+  109  ./a.out
+  110  gcc quiz.c
+  111  vim quiz.c
+  112  gcc quiz.c
+  113  vim quiz.c
+  114  gcc quiz.c
+  115  vim quiz.c
+  116  gcc quiz.c
+  117  vim quiz.c
+  118  gcc quiz.c
+  119  ./a.out
+  120  vim quiz.c
+  121  gcc quiz.c
+  122  vim quiz.c
+  123  gcc quiz.c
+  124  vim quiz.c
+  125  gcc quiz.c
+  126  vim quiz.c
+  127  gcc quiz.c
+  128  ./a.out
+  129  vim quiz.c
+  130  ./a.out
+  131  ulimit -c unlimited
+  132  ./a.out
+  133  vim quiz.c
+  134  gcc quiz.c
+  135  ./a.out
+  136  vim quiz.c
+  137  gcc quiz.c
+  138  vim quiz.c
+  139  gcc quiz.c
+  140  ./a.out
+  141  gcc quiz.c
+  142  vim quiz.c
+  143  gcc quiz.c
+  144  ./a.out
+  145  vim quiz.c
+  146  vim readme 
+  147  git status
+  148  git add quiz.c
+  149  git commit -m quiz fst-day
+  150  git commit -m quiz-fst-day
+  151  git push
+  152  history > quiz-fst-day
